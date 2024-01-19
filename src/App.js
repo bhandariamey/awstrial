@@ -80,6 +80,541 @@ function App() {
           alt="Third slide"
         />
       </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item> <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://s3.ap-south-1.amazonaws.com/thedesignspell.netlify.app/photos/sites/Dreamroom/3.JPG"
+          alt="Third slide"
+        />
+      </Carousel.Item>
 
     </Carousel>
   );
